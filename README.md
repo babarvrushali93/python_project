@@ -19,7 +19,7 @@
         -  @ (at time 1)
        -  . (revsers -3,-4 position)
   - Define a regular expression 'email_condition' for a basic email validation
-  - Define a regular expression 'user_email' for a basic email validation 
+  - Define a regular expression 'user_email'for userinput() for a basic email validation 
   - Use re.search() to check if the email matches the 'email_condition','user_email'.
   - This example uses the re.search() function to check if the provided email adheres to a basic pattern for email addresses.
   - . Here's an program:
