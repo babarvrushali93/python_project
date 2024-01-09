@@ -9,7 +9,7 @@
    -    checks if the email contains exactly one '@' character,
    -    checks if the email contains exactly '.' is end with third or fourth position 
    -    checks if the email contains exactly  not space in character.
-   -      Here's an program:
+   -   Here's an program:
   
     
 # 2.email validation in python (using RegEx)   
