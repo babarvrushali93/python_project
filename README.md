@@ -34,12 +34,11 @@
   it will generate a QR code image and save it to the specified file.
 - Here's an program:
 
-# 4. QR code Generator in python ()
+# 4. QR code Generator in python 
 - import module (qrcode).
 - If you haven't installed it yet, you can do so using: pip install qrcode[PIL]
 - qr = qrcode.QRCode () : - version =1,error_correction remove ,box_size,border.
-- Replace "https://dictionary.cambridge.org/" with the data you want to encode in the QR code, 
-    and "eng_dict.png" with the desired output filename. When you run this script,
+- Replace "https://www.pexels.com/search/animal/" with the data you want to encode in the QR code, and "animal_img.png" with the desired output filename. When you run this script,
     it will generate a QR code image and save it to the specified file.
 - Here's an program:
 
